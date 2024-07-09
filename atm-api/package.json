@@ -24,6 +24,7 @@
     "@aws-cdk/aws-lambda": "^1.204.0",
     "aws-cdk-lib": "2.142.1",
     "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.3",
     "constructs": "^10.0.0",
     "mysql2": "^3.9.9",
     "source-map-support": "^0.5.21"
